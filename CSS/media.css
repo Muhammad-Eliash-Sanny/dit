@@ -1,0 +1,126 @@
+/* mobile verson */
+@media (max-width: 600px){
+    .col-s-1 {width: 8.33%;
+        float: left;
+    }
+    .col-s-2 {width: 16.66%;
+        float: left;
+    }
+    .col-s-3 {width: 25%;
+        float: left;
+    }
+    .col-s-4 {width: 33.33%;
+        float: left;
+    }
+    .col-s-5 {width: 41.66%;
+        float: left;
+    }
+    .col-s-6 {width: 50%;
+        float: left;
+    }
+    .col-s-7 {width: 58.33%;
+        float: left;
+    }
+    .col-s-8 {width: 66.66%;
+        float: left;
+    }
+    .col-s-9 {width: 75%;
+        float: left;
+    }
+    .col-s-10 {width: 83.33%;
+        float: left;
+    }
+    .col-s-11 {width: 91.66%;
+        float: left;
+    }
+    .col-s-12 {width: 100%;
+        float: left;
+    }
+.logo-part{
+    margin: 0px 200px;
+    }
+.hero-part{
+     height: 900px;
+    }
+.hero-writing-part{
+    margin: 20px 0px;
+}   
+.hero-btn-group-part2 button{
+    width: 95%;
+margin-left: 0px;
+}
+#about{
+height: 720px;
+}
+#information{
+    height: 600px;
+    text-align: left;
+}
+.information-writing-part p{
+    text-align: center;
+    margin: 0px 0px;
+}
+#presentation{
+    height: 600px;
+    text-align: center;
+}
+.presentation-writing-part p{
+    text-align: center;
+}
+#middle{
+    height: 1000px;
+    text-align: center;
+    margin: 0px 0px;
+}
+.middle-writing-part{
+    font-size: 10px;
+    margin: 0px 0px;
+}
+.middle-box-part img{
+  margin-left: 0px;
+}
+.middle-group1{
+    font-size: 20px;
+
+}
+#video{
+ height: 650px;
+}
+#app{
+    height: 1200px;
+}
+.app-writing-part {
+    text-align: center;
+}
+.app-box-part img{
+    margin: 2% 15%;
+}
+.app-writing-part h1{
+   margin: 0px 0px;
+}
+#footer{
+    height: 700px;
+}
+.global-heading2{
+    color: rgb(40, 8, 70);
+    font-size: 15px;
+    margin-top: 50px;
+}
+.footer-bottom-box h1{
+    font-size: 18px;
+}
+.footer-team-icons i{
+ font-size: 15px;
+}
+/* tablet verson */
+@media(min-width: 601px) and (max-width: 768px){
+
+}
+/* landscope verson */
+@media(min-width: 769px) and (max-width: 992px){
+
+}
+/* laptob verson */
+@media(min-width: 993px) and (max-width: 1200px){
+    
+}
